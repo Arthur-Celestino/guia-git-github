@@ -1,3 +1,5 @@
+### Atividade proposta pelo professor: Fabio Luiz Peral
+
 # Ciclo de Vida de um Projeto com Git e GitHub
 
 ## 🚀 Sessão 1: O Passo a Passo da Criação e Envio
